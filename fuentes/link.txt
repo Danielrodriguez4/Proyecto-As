@@ -1,0 +1,8 @@
+para font de letras
+
+https://fonts.google.com/specimen/Titillium+Web?query=tit&preview.size=64&preview.layout=row&selection.family=Titillium+Web:ital,wght@0,300;0,600;1,400&sidebar.open=true
+
+
+iconos 
+
+https://ionicons.com
